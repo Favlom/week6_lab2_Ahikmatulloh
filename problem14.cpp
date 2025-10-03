@@ -2,6 +2,7 @@
 using namespace std;
 
 
+
 double futureInvestmentValue(double investmentAmount, double monthlyInterestRate, int years) {
     double futureValue = investmentAmount;
     int totalMonths = years * 12;

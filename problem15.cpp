@@ -2,6 +2,7 @@
 using namespace std;
 
 
+
 void printASCII(char ch1, char ch2, int numberPerLine) {
     int count = 0;
 
